@@ -1,1 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
 
+.navbar {
+    background-color: #f8f9fa; /* Change to your desired background color */
+}
+
+.navbar-brand {
+    margin-left: 15px; /* Adjust margin as needed */
+}
+
+.dropdown-menu {
+    width: 100%;
+    background-color: #343a40; /* Change to your desired background color */
+}
+
+.page-heading {
+    margin: 20px 0;
+}
+
+.tall-section {
+    height: 1000px; /* Adjust the height as needed */
+    background-color: #e9ecef; /* Change to your desired background color */
+}
